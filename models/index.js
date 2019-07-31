@@ -1,3 +1,3 @@
-moduke.exports = {
+module.exports = {
   Book: require("./book")
 };
